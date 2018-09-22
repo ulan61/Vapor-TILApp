@@ -1,0 +1,4 @@
+module CNIOLinux {
+    umbrella "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git-1372409166921445932/Sources/CNIOLinux/include"
+    export *
+}

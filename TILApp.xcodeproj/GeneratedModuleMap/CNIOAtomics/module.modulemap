@@ -1,0 +1,4 @@
+module CNIOAtomics {
+    umbrella "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git-1372409166921445932/Sources/CNIOAtomics/include"
+    export *
+}
