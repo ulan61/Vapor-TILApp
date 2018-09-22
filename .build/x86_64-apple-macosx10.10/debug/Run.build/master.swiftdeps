@@ -1,5 +1,0 @@
-version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "08117a3ca1c9ae93b0c70cd654bb1bb4"
-build_time: [1537636508, 301581000]
-inputs:
-  "/Users/ulannurmamatov/vapor/TILApp/Sources/Run/main.swift": [1537610237, 0]
