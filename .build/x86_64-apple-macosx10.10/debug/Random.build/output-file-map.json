@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/master.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/crypto.git-5938333994187179497/Sources/Random/Array+Random.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/Array+Random.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/Array+Random.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/Array+Random~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/Array+Random.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/crypto.git-5938333994187179497/Sources/Random/OSRandom.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/OSRandom.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/OSRandom.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/OSRandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/OSRandom.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/crypto.git-5938333994187179497/Sources/Random/RandomProtocol.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/RandomProtocol.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/RandomProtocol.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/RandomProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/RandomProtocol.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/crypto.git-5938333994187179497/Sources/Random/URandom.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/URandom.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/URandom.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/URandom~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Random.build/URandom.swiftdeps"
+  }
+}

@@ -1,0 +1,19 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "0d5de75f4105c8915d36d73e08d9823e"
+build_time: [1537613956, 207113000]
+inputs:
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Async+NIO.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/AsyncError.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Collection+Future.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Deprecated.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Exports.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Future+DoCatch.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Future+Flatten.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Future+Global.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Future+Map.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Future+Transform.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Future+Variadic.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Future+Void.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/FutureType.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/QueueHandler.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Async/Worker.swift": [1537613925, 0]

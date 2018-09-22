@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "45656e70ef23690626787e0c77b40984"
+build_time: [1537613991, 704523000]
+inputs:
+  "/Users/ulannurmamatov/vapor/TILApp/Sources/App/Models/Acronym.swift": [1537611572, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/Sources/App/app.swift": [1537610237, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/Sources/App/boot.swift": [1537610237, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/Sources/App/configure.swift": [1537611289, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/Sources/App/routes.swift": [1537613452, 0]

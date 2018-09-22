@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "d4e3a35700aaba71a97829cb5f325d59"
+build_time: [1537613959, 504212000]
+inputs:
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Exports.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validatable.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/ValidationError.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validations.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/ValidatorType.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/AndValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/CharacterSetValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/CountValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/EmailValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/EmptyValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/InValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/NilIgnoringValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/NilValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/NotValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/OrValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/RangeValidator.swift": [1537613925, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/validation.git--1379798845626387886/Sources/Validation/Validators/URLValidator.swift": [1537613925, 0]

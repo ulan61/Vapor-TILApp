@@ -1,0 +1,125 @@
+{
+  "": {
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/master.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Config/Config.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Config.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Config/Config.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Config~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Config.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Container/BasicContainer.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/BasicContainer.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Container/BasicContainer.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/BasicContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/BasicContainer.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Container/BasicSubContainer.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/BasicSubContainer.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Container/BasicSubContainer.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/BasicSubContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/BasicSubContainer.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Container/Container.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Container.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Container/Container.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Container~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Container.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Container/ContainerAlias.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ContainerAlias.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Container/ContainerAlias.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ContainerAlias~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ContainerAlias.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Container/SubContainer.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/SubContainer.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Container/SubContainer.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/SubContainer~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/SubContainer.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Environment/Environment.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Environment.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Environment/Environment.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Environment~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Environment.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Provider/Provider.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Provider.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Provider/Provider.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Provider~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Provider.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Services/BasicServiceFactory.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/BasicServiceFactory.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services/BasicServiceFactory.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/BasicServiceFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/BasicServiceFactory.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Services/Service.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Service.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services/Service.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Service~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Service.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Services/ServiceCache.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceCache.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services/ServiceCache.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceCache~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceCache.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Services/ServiceFactory.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceFactory.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services/ServiceFactory.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceFactory.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Services/ServiceID.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceID.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services/ServiceID.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceID~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceID.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Services/ServiceType.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceType.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services/ServiceType.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceType~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceType.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Services/Services.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services/Services.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Services/TypeServiceFactory.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/TypeServiceFactory.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Services/TypeServiceFactory.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/TypeServiceFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/TypeServiceFactory.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Utilities/Deprecated.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Deprecated.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Utilities/Deprecated.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Deprecated~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Deprecated.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Utilities/Exports.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Exports.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Utilities/Exports.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Exports~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Exports.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Utilities/Extendable.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Extendable.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Utilities/Extendable.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Extendable~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Extendable.swiftdeps"
+  },
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/service.git--5030411729287897560/Sources/Service/Utilities/ServiceError.swift": {
+    "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceError.d",
+    "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/Utilities/ServiceError.swift.o",
+    "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceError~partial.swiftmodule",
+    "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.build/ServiceError.swiftdeps"
+  }
+}
