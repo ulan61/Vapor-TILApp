@@ -25,6 +25,8 @@ depends-external:
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/SQL.swiftmodule"
+- "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.swiftmodule"
+- "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/FluentPostgreSQL.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/FluentSQL.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIO.swiftmodule"

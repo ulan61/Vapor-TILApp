@@ -87,6 +87,12 @@ depends-member:
 - !private ["7Routing9ParameterP", "init"]
 - !private ["7Routing27PathComponentsRepresentableP", "init"]
 - !private ["7Routing27PathComponentsRepresentableP", "init"]
+- !private ["10PostgreSQL0A18SQLDataConvertibleP", "init"]
+- !private ["10PostgreSQL0A18SQLDataConvertibleP", "init"]
+- !private ["10PostgreSQL0A30SQLDataTypeStaticRepresentableP", "init"]
+- !private ["10PostgreSQL0A30SQLDataTypeStaticRepresentableP", "init"]
+- !private ["16FluentPostgreSQL0B8SQLModelP", "save"]
+- !private ["10PostgreSQL0A8SQLTableP", "save"]
 - !private ["Sm", "init"]
 - !private ["Sm", "init"]
 - !private ["4Core11ReflectableP", "save"]
@@ -112,12 +118,6 @@ depends-member:
 - !private ["7Routing17RoutableComponentP", "init"]
 - !private ["5Vapor6RouterP", "post"]
 - !private ["3SQL8SQLTableP", "save"]
-- !private ["6SQLite0A15DataConvertibleP", "init"]
-- !private ["6SQLite0A15DataConvertibleP", "init"]
-- !private ["6SQLite0A27DataTypeStaticRepresentableP", "init"]
-- !private ["6SQLite0A27DataTypeStaticRepresentableP", "init"]
-- !private ["12FluentSQLite0B5ModelP", "save"]
-- !private ["12FluentSQLite0B5TableP", "save"]
 - !private ["ST", "init"]
 - !private ["ST", "init"]
 - !private ["7ServiceAAP", "post"]
@@ -147,7 +147,7 @@ depends-member:
 - !private ["s33_ExpressibleByStringInterpolationP", "init"]
 - !private ["s21_ObjectiveCBridgeableP", "init"]
 - !private ["s21_ObjectiveCBridgeableP", "init"]
-- !private ["12FluentSQLite01_B5ModelP", "save"]
+- !private ["16FluentPostgreSQL01_B8SQLModelP", "save"]
 - !private ["s16_SwiftStringViewP", "init"]
 - !private ["s16_SwiftStringViewP", "init"]
 depends-nominal:
@@ -193,6 +193,10 @@ depends-nominal:
 - !private "9Multipart0A15PartConvertibleP"
 - !private "7Routing9ParameterP"
 - !private "7Routing27PathComponentsRepresentableP"
+- !private "10PostgreSQL0A18SQLDataConvertibleP"
+- !private "10PostgreSQL0A30SQLDataTypeStaticRepresentableP"
+- !private "16FluentPostgreSQL0B8SQLModelP"
+- !private "10PostgreSQL0A8SQLTableP"
 - !private "Sm"
 - !private "4Core11ReflectableP"
 - !private "4Core19ReflectionDecodableP"
@@ -204,10 +208,6 @@ depends-nominal:
 - !private "7Routing17RoutableComponentP"
 - !private "5Vapor6RouterP"
 - !private "3SQL8SQLTableP"
-- !private "6SQLite0A15DataConvertibleP"
-- !private "6SQLite0A27DataTypeStaticRepresentableP"
-- !private "12FluentSQLite0B5ModelP"
-- !private "12FluentSQLite0B5TableP"
 - !private "ST"
 - !private "7ServiceAAP"
 - !private "SS"
@@ -223,7 +223,7 @@ depends-nominal:
 - !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
 - !private "s33_ExpressibleByStringInterpolationP"
 - !private "s21_ObjectiveCBridgeableP"
-- !private "12FluentSQLite01_B5ModelP"
+- !private "16FluentPostgreSQL01_B8SQLModelP"
 - !private "s16_SwiftStringViewP"
 depends-dynamic-lookup:
 depends-external:
@@ -231,6 +231,8 @@ depends-external:
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOHTTP1.swiftmodule"
 - "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/SQL.swiftmodule"
+- "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/PostgreSQL.swiftmodule"
+- "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/FluentPostgreSQL.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/FluentSQL.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIOOpenSSL.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/NIO.swiftmodule"
@@ -241,8 +243,6 @@ depends-external:
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Service.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Console.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.swiftmodule"
-- "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/SQLite.swiftmodule"
-- "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/FluentSQLite.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Debugging.swiftmodule"
 - "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Routing.swiftmodule"
