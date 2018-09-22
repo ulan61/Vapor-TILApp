@@ -1,6 +1,6 @@
 version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
-options: "6972c9cde27beebf27603162d2984dc6"
-build_time: [1537613944, 438691000]
+options: "2f1d4c21c9345a759cfbdad5c04b31b9"
+build_time: [1537636442, 809735000]
 inputs:
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git--6764133801899005495/Sources/NIOConcurrencyHelpers/atomics.swift": [1537613923, 0]
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git--6764133801899005495/Sources/NIOConcurrencyHelpers/lock.swift": [1537613923, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git--7727689301237402134/Sources/NIOConcurrencyHelpers/atomics.swift": [1537635898, 0]
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git--7727689301237402134/Sources/NIOConcurrencyHelpers/lock.swift": [1537635898, 0]

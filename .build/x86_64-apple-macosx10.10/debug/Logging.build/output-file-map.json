@@ -2,25 +2,25 @@
   "": {
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/master.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/console.git--7194724190750975712/Sources/Logging/Exports.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/console.git-6025933821945920695/Sources/Logging/Exports.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/Exports.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/console.git--7194724190750975712/Sources/Logging/LogLevel.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/console.git-6025933821945920695/Sources/Logging/LogLevel.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/LogLevel.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/console.git--7194724190750975712/Sources/Logging/Logger.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/console.git-6025933821945920695/Sources/Logging/Logger.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/Logger.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/console.git--7194724190750975712/Sources/Logging/PrintLogger.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/console.git-6025933821945920695/Sources/Logging/PrintLogger.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Logging.build/PrintLogger~partial.swiftmodule",

@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-3538632678425855867/Sources/CNIOOpenSSL/shims.c \
-  /Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio-ssl.git-3538632678425855867/Sources/CNIOOpenSSL/include/c_nio_openssl.h \
+  /Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio-ssl.git--6040882182126575939/Sources/CNIOOpenSSL/shims.c \
+  /Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio-ssl.git--6040882182126575939/Sources/CNIOOpenSSL/include/c_nio_openssl.h \
   /usr/local/Cellar/libressl/2.7.4/include/openssl/conf.h \
   /usr/local/Cellar/libressl/2.7.4/include/openssl/opensslconf.h \
   /usr/local/Cellar/libressl/2.7.4/include/openssl/opensslfeatures.h \

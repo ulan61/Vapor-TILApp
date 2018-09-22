@@ -2,151 +2,151 @@
   "": {
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/master.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/BasicKey.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/BasicKey.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/BasicKey.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/BasicKey.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/BasicKey~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/BasicKey.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/CaseInsensitiveString.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/CaseInsensitiveString.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CaseInsensitiveString.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CaseInsensitiveString.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CaseInsensitiveString~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CaseInsensitiveString.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/CodableReflection/Decodable+Reflectable.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/CodableReflection/Decodable+Reflectable.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Decodable+Reflectable.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CodableReflection/Decodable+Reflectable.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Decodable+Reflectable~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Decodable+Reflectable.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/CodableReflection/ReflectionDecodable.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/CodableReflection/ReflectionDecodable.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecodable.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CodableReflection/ReflectionDecodable.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecodable~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecodable.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/CodableReflection/ReflectionDecoders.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/CodableReflection/ReflectionDecoders.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecoders.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CodableReflection/ReflectionDecoders.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecoders~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/ReflectionDecoders.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/CoreError.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/CoreError.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CoreError.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CoreError.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CoreError~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/CoreError.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/Data+Base64URL.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/Data+Base64URL.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Base64URL.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Base64URL.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Base64URL~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Base64URL.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/Data+Hex.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/Data+Hex.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Hex.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Hex.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Hex~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Data+Hex.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/DataCoders.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/DataCoders.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/DataCoders.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/DataCoders.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/DataCoders~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/DataCoders.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/Deprecated.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/Deprecated.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Deprecated.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Deprecated.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Deprecated~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Deprecated.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/DirectoryConfig.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/DirectoryConfig.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/DirectoryConfig.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/DirectoryConfig.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/DirectoryConfig~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/DirectoryConfig.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/Exports.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/Exports.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Exports.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Exports.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Exports~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Exports.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/File.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/File.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/File.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/File.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/File~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/File.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/Future+Unwrap.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/Future+Unwrap.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Future+Unwrap.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Future+Unwrap.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Future+Unwrap~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Future+Unwrap.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/FutureEncoder.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/FutureEncoder.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/FutureEncoder.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/FutureEncoder.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/FutureEncoder~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/FutureEncoder.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/HeaderValue.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/HeaderValue.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/HeaderValue.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/HeaderValue.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/HeaderValue~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/HeaderValue.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/LosslessDataConvertible.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/LosslessDataConvertible.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/LosslessDataConvertible.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/LosslessDataConvertible.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/LosslessDataConvertible~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/LosslessDataConvertible.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/MediaType.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/MediaType.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/MediaType.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/MediaType.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/MediaType~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/MediaType.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/NestedData.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/NestedData.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/NestedData.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/NestedData.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/NestedData~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/NestedData.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/NotFound.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/NotFound.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/NotFound.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/NotFound.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/NotFound~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/NotFound.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/OptionalType.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/OptionalType.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/OptionalType.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/OptionalType.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/OptionalType~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/OptionalType.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/Process+Execute.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/Process+Execute.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Process+Execute.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Process+Execute.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Process+Execute~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Process+Execute.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/Reflectable.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/Reflectable.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Reflectable.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Reflectable.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Reflectable~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Reflectable.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/String+Utilities.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/String+Utilities.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/String+Utilities.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/String+Utilities.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/String+Utilities~partial.swiftmodule",
     "swift-dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/String+Utilities.swiftdeps"
   },
-  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-9144570246521555418/Sources/Core/Thread+Async.swift": {
+  "/Users/ulannurmamatov/vapor/TILApp/.build/checkouts/core.git-8718790057632159723/Sources/Core/Thread+Async.swift": {
     "dependencies": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Thread+Async.d",
     "object": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Thread+Async.swift.o",
     "swiftmodule": "/Users/ulannurmamatov/vapor/TILApp/.build/x86_64-apple-macosx10.10/debug/Core.build/Thread+Async~partial.swiftmodule",

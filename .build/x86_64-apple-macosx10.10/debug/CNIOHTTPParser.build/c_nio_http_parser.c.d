@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git--6764133801899005495/Sources/CNIOHTTPParser/c_nio_http_parser.c \
-  /Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git--6764133801899005495/Sources/CNIOHTTPParser/include/c_nio_http_parser.h \
+  /Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git--7727689301237402134/Sources/CNIOHTTPParser/c_nio_http_parser.c \
+  /Users/ulannurmamatov/vapor/TILApp/.build/checkouts/swift-nio.git--7727689301237402134/Sources/CNIOHTTPParser/include/c_nio_http_parser.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include/module.modulemap \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/10.0.0/include/__stddef_max_align_t.h \
